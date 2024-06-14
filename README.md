@@ -18,6 +18,9 @@ Welcome to my journey through the exciting world of competitive programming! Thi
 
 ## 📚 Problem Set
 Here, you'll find a curated list of the competitive programming problems I've solved, organized by source and difficulty. This section will be continuously updated as I progress.
+- [X] BeautifulMetrix
+- [X] BitsPlusPlus
+- [X] Chewbaca_and_Number
 
 Stay tuned for updates! 🎉
 
