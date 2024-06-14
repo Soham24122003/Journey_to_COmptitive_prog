@@ -1,11 +1,11 @@
-# Journey to Competitive Programming
+# Journey to Problem Solving with JAVA
 ---
 
-![Hi](https://path/to/your/hi-image.png)
+![Hi](/frGIThb/hi-there.gif)
 
 ## 👋 Hello from Soham! Wishing you all the best. 🌟
 
-![Anime GIF](https://path/to/your/anime-gif.gif)
+![Anime GIF](/frGIThb/good-luck.gif)
 
 ---
 
@@ -28,18 +28,11 @@ Stay tuned for updates! 🎉
 ## 📫 Contact Me
 Feel free to reach out to me if you have any questions or suggestions!
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐱‍💻 GitHub: [Your GitHub](https://github.com/your-profile)
+- 📧 Email: [sohampatwari144@gmail.com](mailto:sohampatwari144@gmail.com)
+- 💼 LinkedIn: [Soham Patwari](https://www.linkedin.com/in/soham-patwari-488b22222/)
+- 🐱‍💻 GitHub: [Soham24122003](https://github.com/Soham24122003)
 
 ![Contact GIF](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
-
----
-
-## 🎨 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-![License GIF](https://media.giphy.com/media/l0HlMWkBueBe1C3gI/giphy.gif)
 
 ---
 
