@@ -21,7 +21,7 @@ Here, you'll find a curated list of the competitive programming problems I've so
 
 Stay tuned for updates! 🎉
 
-![Stay Tuned GIF](https://media.giphy.com/media/3o6ZsYhV3B53u5VHz6/giphy.gif)
+![Stay Tuned GIF](frGIThb/Register-Login(1).gif)
 
 ---
 
@@ -32,7 +32,7 @@ Feel free to reach out to me if you have any questions or suggestions!
 - 💼 LinkedIn: [Soham Patwari](https://www.linkedin.com/in/soham-patwari-488b22222/)
 - 🐱‍💻 GitHub: [Soham24122003](https://github.com/Soham24122003)
 
-![Contact GIF](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
+![Contact GIF](frGIThb/download.gif)
 
 ---
 
@@ -40,7 +40,7 @@ Feel free to reach out to me if you have any questions or suggestions!
 - A huge thanks to all the competitive programming platforms and communities that have supported my journey.
 - Special shoutout to fellow coders who inspire me every day!
 
-![Thanks GIF](https://media.giphy.com/media/l41lG2MCZQhZlqWhu/giphy.gif)
+![Thanks GIF](frGIThb/MrsuicidesheepGIFbySeekingBlue.gif)
 
 ---
 
