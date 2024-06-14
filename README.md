@@ -21,6 +21,8 @@ Here, you'll find a curated list of the competitive programming problems I've so
 - [X] BeautifulMetrix
 - [X] BitsPlusPlus
 - [X] Chewbaca_and_Number
+- [X] TooLongWord
+- [X] Vasya And Basketball  
 
 Stay tuned for updates! 🎉
 
